@@ -1,0 +1,53 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "doc1",
+          "docs": [
+            {
+              "id": "doc1",
+              "path": "/docs/doc1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "doc2",
+              "path": "/docs/doc2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "doc3",
+              "path": "/docs/doc3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "doc4",
+              "path": "/docs/doc4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "doc5",
+              "path": "/docs/doc5",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/doc1",
+                "label": "Example Page"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

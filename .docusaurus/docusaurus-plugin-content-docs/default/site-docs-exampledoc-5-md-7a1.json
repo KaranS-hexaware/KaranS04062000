@@ -1,0 +1,23 @@
+{
+  "unversionedId": "doc5",
+  "id": "doc5",
+  "title": "Fifth Document",
+  "description": "Another one",
+  "source": "@site/docs/exampledoc5.md",
+  "sourceDirName": ".",
+  "slug": "/doc5",
+  "permalink": "/docs/doc5",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/exampledoc5.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "doc5",
+    "title": "Fifth Document"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Other Document",
+    "permalink": "/docs/doc4"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "doc1",
+  "id": "doc1",
+  "title": "Latin-ish",
+  "description": "Check the documentation for how to use Docusaurus.",
+  "source": "@site/docs/doc1.md",
+  "sourceDirName": ".",
+  "slug": "/doc1",
+  "permalink": "/docs/doc1",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/doc1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "doc1",
+    "title": "Latin-ish",
+    "sidebar_label": "Example Page"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "document number 2",
+    "permalink": "/docs/doc2"
+  }
+}
